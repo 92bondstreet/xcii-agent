@@ -2,10 +2,12 @@
 
 > superagent "enhancer" for my needs
 
+![Photo by Stefan Steinbauer](https://source.unsplash.com/HK8IoD-5zpg/800x600)
+
 ## Installation
 
 ```sh
-❯ yarn add xcii-agent
+❯ yarn add git+ssh://git@github.com/92bondstreet/xcii-agent.git
 ```
 
 ## Usage
@@ -25,3 +27,7 @@ async function get () {
 
 get();
 ```
+
+## Licence
+
+[Uncopyrighted](http://zenhabits.net/uncopyright)
