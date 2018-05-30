@@ -1,2 +1,2 @@
-module.exports = require('./lib/index');
-module.exports.format = require('./lib/format');
+module.exports = require('./src/index');
+module.exports.format = require('./src/format');
